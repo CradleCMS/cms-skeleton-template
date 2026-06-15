@@ -1,1 +1,1 @@
-# Skeleton template for Cradle CMS
+# Skeleton eCommerce template for Cradle CMS
